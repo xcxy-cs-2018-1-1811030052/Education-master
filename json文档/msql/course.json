@@ -1,0 +1,25 @@
+{
+  "RECORDS": [
+    {
+      "Cno": "5001",
+      "Cname": "C语言",
+      "Cpno": "是",
+      "Credit": "4",
+      "Remarks": "必修"
+    },
+    {
+      "Cno": "5002",
+      "Cname": "JAVA",
+      "Cpno": "是",
+      "Credit": "6",
+      "Remarks": "必修"
+    },
+    {
+      "Cno": "5011",
+      "Cname": "网络安全",
+      "Cpno": "否",
+      "Credit": "2",
+      "Remarks": "选修"
+    }
+  ]
+}
